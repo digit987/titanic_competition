@@ -1,2 +1,2 @@
 # Titanic-Competition
-This project is a copy of submission for Kaggle Competition
+Submitted this project for Kaggle Competition.
